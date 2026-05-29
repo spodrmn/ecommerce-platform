@@ -1,1 +1,1 @@
-A React-based food e-commerce platform homepage with a Bootstrap UI
+A React-based e-commerce platform homepage with a Bootstrap UI
